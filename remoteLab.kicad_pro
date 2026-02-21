@@ -416,6 +416,10 @@
     [
       "a312f2fd-ab2b-4c26-a719-e94f6f9e113b",
       "relay"
+    ],
+    [
+      "93623abd-f9ac-4004-aa85-6286974143f8",
+      "uart+usb"
     ]
   ],
   "text_variables": {}
